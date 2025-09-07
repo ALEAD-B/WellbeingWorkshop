@@ -25,12 +25,13 @@ recommendations for incorporating crafting activities into HDR support.
 
 This is a half day workshop structured around crafting and self reflection. On the day participants will take part in two
 different crafts and a reflection task. The day is structured as follows:
-10 mins Workshop Start and Introduction by Hosts
-10 mins Icebreaker task - What does wellbeing mean to me?
-60 mins Craft Session 1 - choose a table
-30 mins Break and switch
-60 mins Craft Session 2 - choose a different table
-60 mins Reflection task - Final discussion on the implications of crafting in HCI
-10 mins Wrap up and Thanks
+- 10 mins Workshop Start and Introduction by Hosts
+- 10 mins Icebreaker task - What does wellbeing mean to me?
+- 60 mins Craft Session 1 - choose a table
+- 30 mins Break and switch
+- 60 mins Craft Session 2 - choose a different table
+- 60 mins Reflection task - Final discussion on the implications of crafting in HCI
+- 10 mins Wrap up and Thanks
+  
 Each participant will get to experience 2 of the 4 craft activities on offer. Participants may be directed to specific
 activities based on availability.
