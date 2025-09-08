@@ -1,4 +1,5 @@
-# WellbeingWorkshop
+# Crafting Connections: Building Wellbeing and Community in the PhD Journey
+
 PhD students are six times more likely to develop mental health issues than the general public, with international students at higher
 risk due to a lack of social support. We propose this workshop, focusing on using craft for fostering wellbeing and community
 connection, would be beneficial because everyone can share how they approach wellbeing in their workspaces, and experience first
@@ -11,7 +12,7 @@ who work in diverse teams and want to try new ways to include others and connect
 Position papers are not required for this workshop, but in advance of the workshop, we will ask everyone attending to
 submit an image of something that represents wellbeing and/or connection to you, for use in our icebreaker activity.
 
-Please can all interested participants complete this reistratiuon form
+Please can all interested participants complete this registration form : https://docs.google.com/forms/d/e/1FAIpQLSfH0io52BXBZaztYAzdQ9KYUiuAv4OAMyYwG7-TGTjSRFC0IA/viewform?usp=header
 
 In this workshop, we will explore the connection between crafting and wellbeing through hands-on experience with
 crafting activities from four different cultures. Participants will discuss and reflect on their experiences in academia, the
