@@ -78,7 +78,7 @@ The padura (woven mat) is a cultural item that can be found in all Sri Lankan ho
 ## Attending
 If you are interested in attending, please fill out the form here: [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfH0io52BXBZaztYAzdQ9KYUiuAv4OAMyYwG7-TGTjSRFC0IA/viewform?usp=header)
 
-Please check the [[Authors]] page to read about the workshop organisers.
+Please check the [Authors](./Authors.md) page to read about the workshop organisers.
 
 We look forward to seeing you there!
 
