@@ -23,22 +23,21 @@ We welcome participants of all academic levels who like the idea of meeting peop
  Position papers are not required for this workshop, but in advance of the workshop, we ask you to
  submit an image of something that represents wellbeing and/or connection to you, for use in our icebreaker activity.
  
-If you are interested in atending, please fill out the form here : [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfH0io52BXBZaztYAzdQ9KYUiuAv4OAMyYwG7-TGTjSRFC0IA/viewform?usp=header)
+If you are interested in attending, please fill out the form here : [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfH0io52BXBZaztYAzdQ9KYUiuAv4OAMyYwG7-TGTjSRFC0IA/viewform?usp=header)
 
 ## Agenda
 
 This is a half day workshop structured around crafting and self reflection. On the day participants will take part in two
 different crafts and a reflection task. The day is structured as follows:
-- 10 mins Workshop Start and Introduction by Hosts
-- 10 mins Icebreaker task - What does wellbeing mean to me?
-- 60 mins Craft Session 1 - choose a table
-- 30 mins Break and switch
-- 60 mins Craft Session 2 - choose a different table
-- 60 mins Reflection task - Final discussion on the implications of crafting in HCI
-- 10 mins Wrap up and Thanks
+- 10 mins - Workshop Start and Introduction by Hosts
+- 10 mins - Icebreaker task - What does wellbeing mean to me?
+- 60 mins - Craft Session 1 - choose a table
+- 30 mins - Break and switch
+- 60 mins - Craft Session 2 - choose a different table
+- 60 mins - Reflection task - Final discussion on the implications of crafting in HCI
+- 10 mins - Wrap up and Thanks
   
-Each participant will get to experience 2 of the 4 craft activities on offer. Participants may be directed to specific
-activities based on availability.
+Each participant will get to experience 2 of the 4 craft activities on offer. Participants may be directed to specific activities based on availability.
 
 ## Activities
 ### European Loom Knitting facilitated by Alexandra Douglass-Bonner. 
@@ -79,5 +78,5 @@ Knitting is a tradition of crafting fabric from
 The padura (woven mat) is a cultural item that can be found in all Sri Lankan homes. It is used as a bed, a dining table, musical performance space and more. Padura weaving can be a meditative experience for the crafter and is sometimes done while reciting kavi (folk poetry). This workshop aims to teach the basics of padura weaving using paper while Manesha shares aspects of Sri Lankan culture that support her wellbeing such as crafting, focusing on community, and prioritising ecological sustainability. In a cultural exchange, she invites attendees to discuss their own approaches to these topics while weaving together.
 
 ## Contact
-If you are interested in atending, please fill out the form here: [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfH0io52BXBZaztYAzdQ9KYUiuAv4OAMyYwG7-TGTjSRFC0IA/viewform?usp=header)
+If you are interested in attending, please fill out the form here: [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfH0io52BXBZaztYAzdQ9KYUiuAv4OAMyYwG7-TGTjSRFC0IA/viewform?usp=header)
 
