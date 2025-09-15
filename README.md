@@ -1,5 +1,5 @@
 # Crafting Connections 
-## Building Wellbeing and Community in the PhD Journey
+## Building Wellbeing and Community in the PhD Journey 
 
 PhD students are six times more likely to develop mental health issues than the general public, with international students at higher
 risk due to a lack of social support. We propose this workshop, focusing on using craft for fostering wellbeing and community
@@ -7,7 +7,6 @@ connection, would be beneficial because everyone can share how they approach wel
 hand how crafting activities have positively impacted the work environment of the organisers’ reading group. Workshop attendees
 will get to experience crafting activities from four different cultures, each with a tradition of community building and/or wellness; and
 contribute to a discussion on strategies to support HDR wellbeing Australia-wide.
-
 
 ## Workshop and Activities
 In this workshop, we will explore the connection between crafting and wellbeing through hands-on experience with
