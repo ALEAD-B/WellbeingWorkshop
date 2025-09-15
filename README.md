@@ -76,6 +76,10 @@ Knitting is a tradition of crafting fabric from
 ### Sri Lankan Padura Weaving facilitated by Manesha Andradi. 
 The padura (woven mat) is a cultural item that can be found in all Sri Lankan homes. It is used as a bed, a dining table, musical performance space and more. Padura weaving can be a meditative experience for the crafter and is sometimes done while reciting kavi (folk poetry). This workshop aims to teach the basics of padura weaving using paper while Manesha shares aspects of Sri Lankan culture that support her wellbeing such as crafting, focusing on community, and prioritising ecological sustainability. In a cultural exchange, she invites attendees to discuss their own approaches to these topics while weaving together.
 
-## Contact
+## Attending
 If you are interested in attending, please fill out the form here: [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfH0io52BXBZaztYAzdQ9KYUiuAv4OAMyYwG7-TGTjSRFC0IA/viewform?usp=header)
+
+Please check the [[Authors]] page to read about the workshop organisers.
+
+We look forward to seeing you there!
 
