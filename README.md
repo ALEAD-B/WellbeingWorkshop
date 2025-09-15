@@ -42,15 +42,14 @@ Each participant will get to experience 2 of the 4 craft activities on offer. Pa
 ## Activities
 ### European Loom Knitting facilitated by Alexandra Douglass-Bonner. 
 
-Knitting is a tradition of crafting fabric from
- one continuous thread by looping or "knotting". One of the earliest looms, a Lucet, was found in France in dating back
+Knitting is a tradition of crafting fabric from one continuous thread by looping or "knotting". One of the earliest looms, a Lucet, was found in France in dating back
  to the 10th Century. Due to their small size and simplicity, knitting looms can make knitting more accessible as they do
  not require thread tension to be held in your hands. Alex’s grandma taught her to knit cords on a loom around the age
  of 3, and she came back to loom knitting years later to make hats for her friends. During the workshop she will show
  you some simple stitches that make up all garments, building connections and fostering discussions on a wide range of
  topics. She hopes to share some of her passion for this craft, and hear about your passions and hobbies in return.
  
- ### Indonesian Wayang Making facilitated by Agata Filiana. 
+### Indonesian Wayang Making facilitated by Agata Filiana. 
  
  Wayang refers to a type of traditional shadow puppet
  made from leather and decorated with different colours commonly used in performances in Indonesia, particularly Java
