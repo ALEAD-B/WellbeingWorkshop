@@ -58,7 +58,6 @@ Knitting is a tradition of crafting fabric from
  performance. A wayang performance is often seen more than just for entertainment purposes, but also a spiritual
  experience that include epic storytelling, philosophical messages and humour. You will make your own wayang
  characters using paper. You will carefully select the colours that represent your wayang character, just as each wayang
-
  has their own colour symbolism. Agata will lead discussions on how Indonesian culture uses storytelling to pass on
  generational wisdom of wellbeing and the benefits of gathering as a community to strengthen one’s social connection.
  She invites attendees to reflect and share their own stories on these topics.
