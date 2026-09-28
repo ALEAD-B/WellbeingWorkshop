@@ -29,7 +29,7 @@ something that represents wellbeing and/or connection to them for use in our ice
 Participants are also welcome to bring small items to the workshop such as stickers, photos, paper and pens with them to use in some
 activities (i.e., Zines and bookmarks) as described below in the activities section.
  
-If you are interested in attending, please fill out the form here : [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfH0io52BXBZaztYAzdQ9KYUiuAv4OAMyYwG7-TGTjSRFC0IA/viewform?usp=header)
+If you are interested in attending, please fill out the form here : [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSeUltFGhL0Aq5Or_Tb38PUjG0K5QTLnDdotobkizHwwTCgFzQ/viewform?usp=publish-editor)
 
 ## Agenda
 
