@@ -84,9 +84,9 @@ invites workshop attendees to join her for freestyle or guided art to express th
 (Note: Painting will use acrylic markers rather than paint and water, to reduce risk of spills.)
 
 ## Attending
-If you are interested in attending, please fill out the form here: [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfH0io52BXBZaztYAzdQ9KYUiuAv4OAMyYwG7-TGTjSRFC0IA/viewform?usp=header)
+If you are interested in attending, please fill out the form here: [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSeUltFGhL0Aq5Or_Tb38PUjG0K5QTLnDdotobkizHwwTCgFzQ/viewform?usp=publish-editor)
 
-Please check the [Authors](./Organisers) page to read about the workshop organisers.
+Please check the [Authors](./Authors) page to read about the workshop organisers.
 
 We look forward to seeing you there!
 
