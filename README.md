@@ -86,7 +86,7 @@ invites workshop attendees to join her for freestyle or guided art to express th
 ## Attending
 If you are interested in attending, please fill out the form here: [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSeUltFGhL0Aq5Or_Tb38PUjG0K5QTLnDdotobkizHwwTCgFzQ/viewform?usp=publish-editor)
 
-Please check the [Authors](./Authors) page to read about the workshop organisers.
+Please check the [Authors](./Authors.md) page to read about the workshop organisers.
 
 We look forward to seeing you there!
 
